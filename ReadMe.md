@@ -3,6 +3,7 @@
 - ### Sketch 3.8.2 download link - `https://drive.google.com/open?id=0B6CdFFcKVojGYWJYY3RwUUVfdTg`
 
 - ### Sketch plugins (must have) :
+
 	- #### Content generator :`https://github.com/timuric/Content-generator-sketch-plugin`
 	- #### Craft : `https://www.invisionapp.com/craft`
 	
