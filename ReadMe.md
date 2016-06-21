@@ -5,6 +5,7 @@
 - ### Sketch plugins (must have) :
 
 	- #### Content generator :`https://github.com/timuric/Content-generator-sketch-plugin`
+	
 	- #### Craft : `https://www.invisionapp.com/craft`
 	
 			Hai plugins trên dùng để fill data tự động khi thiết kế.
