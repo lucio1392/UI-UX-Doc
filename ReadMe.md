@@ -55,9 +55,11 @@
 			- uimovement.com
 			- uiinteractions.com
 			- http://www.mobile-patterns.com
+			
 - ### iOS Libraries
 			- https://www.cocoacontrols.com
 			- http://www.code4app.net/index.html
+			
 - ### Ebooks Resource
 			- https://it-ebooks.info/tag/programming/
 			
